@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Efrahim Teknik Servis - Web Uygulaması (Front-End)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bu depo, **Babamın dükkanı** için yaklaşık **3 yıl önce** **React** kullanılarak geliştirilen web uygulamasının **front-end** (ön yüz) kaynak kodunu içerir. Proje, dükkanın dijital varlığını temsil etmek ve potansiyel olarak ürün/hizmetleri sergilemek amacıyla hazırlanmıştır.
 
-## Available Scripts
+Proje eski bir versiyon olsa da, React öğrenmek, projeyi incelemek veya dükkanın güncel ihtiyaçlarına adapte etmek isteyenler için değerli bir başlangıç noktası sunar.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Projeyi Çalıştırma Rehberi
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Bu projeyi yerel ortamınızda başarıyla çalıştırabilmek için aşağıdaki adımları sırasıyla takip etmeniz gerekir.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 1. Gereksinimler
 
-### `npm test`
+* **Node.js**: (Tavsiye edilen sürüm: **[Örn: Node.js 16.x veya 18.x LTS sürümü]**)
+* **npm** (Node Package Manager) veya **yarn**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 2. Kurulum Adımları
 
-### `npm run build`
+#### a. Depoyu Klonlama
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Öncelikle bu depoyu yerel makinenize klonlayın ve proje klasörüne girin:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+git clone [Deponun HTTPS veya SSH URL'si buraya gelecek]
+cd [Projenin Ana Klasör Adı (Genellikle depo adıdır)]
+npm install
+npm run start
+```
+English
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Efrahim Technical Service - Web Application (Front-End)
 
-### `npm run eject`
+This repository contains the **front-end** source code for a web application developed using **React** approximately **3 years ago** for **my father's shop**. The project was created to represent the shop's digital presence and potentially showcase its products and services.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Although the project is an older version, it serves as a valuable starting point for those looking to learn React, inspect the code, or adapt it to the shop's current needs.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🚀 Guide to Running the Project
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You must follow the steps below in order to successfully run this project in your local environment.
 
-## Learn More
+### 1. Prerequisites
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* **Node.js**: (Recommended version: **[E.g., Node.js 16.x or 18.x LTS version]**)
+* **npm** (Node Package Manager) or **yarn**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 2. Installation Steps
 
-### Code Splitting
+#### a. Clone the Repository and Run the Project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+First, clone this repository to your local machine, navigate into the project folder, install the dependencies, and start the application:
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone [The HTTPS or SSH URL of the Repository goes here]
+cd [The Main Project Folder Name (Usually the repository name)]
+npm install
+npm run start
+```
