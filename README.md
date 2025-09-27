@@ -1,6 +1,6 @@
 # Efrahim Teknik Servis - Web Uygulaması (Front-End)
 
-Bu depo, **Babamın dükkanı** için yaklaşık **3 yıl önce** **React** kullanılarak geliştirilen web uygulamasının **front-end** (ön yüz) kaynak kodunu içerir. Proje, dükkanın dijital varlığını temsil etmek ve potansiyel olarak ürün/hizmetleri sergilemek amacıyla hazırlanmıştır.
+Bu depo, **Babamın dükkanı** için yaklaşık 2022'de **React** kullanılarak geliştirilen web uygulamasının **front-end** (ön yüz) kaynak kodunu içerir. Proje, dükkanın dijital varlığını temsil etmek ve potansiyel olarak ürün/hizmetleri sergilemek amacıyla hazırlanmıştır.
 
 Proje eski bir versiyon olsa da, React öğrenmek, projeyi incelemek veya dükkanın güncel ihtiyaçlarına adapte etmek isteyenler için değerli bir başlangıç noktası sunar.
 
@@ -31,7 +31,7 @@ English
 
 # Efrahim Technical Service - Web Application (Front-End)
 
-This repository contains the **front-end** source code for a web application developed using **React** approximately **3 years ago** for **my father's shop**. The project was created to represent the shop's digital presence and potentially showcase its products and services.
+This repository contains the **front-end** source code for a web application developed using **React** approximately 2022 for **my father's shop**. The project was created to represent the shop's digital presence and potentially showcase its products and services.
 
 Although the project is an older version, it serves as a valuable starting point for those looking to learn React, inspect the code, or adapt it to the shop's current needs.
 
