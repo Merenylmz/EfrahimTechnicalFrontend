@@ -22,8 +22,8 @@ Bu projeyi yerel ortamınızda başarıyla çalıştırabilmek için aşağıdak
 Öncelikle bu depoyu yerel makinenize klonlayın ve proje klasörüne girin:
 
 ```bash
-git clone [Deponun HTTPS veya SSH URL'si buraya gelecek]
-cd [Projenin Ana Klasör Adı (Genellikle depo adıdır)]
+git clone https://github.com/Merenylmz/EfrahimTechnicalFrontend.git
+cd projedosyasi
 npm install
 npm run start
 ```
@@ -53,8 +53,8 @@ You must follow the steps below in order to successfully run this project in you
 First, clone this repository to your local machine, navigate into the project folder, install the dependencies, and start the application:
 
 ```bash
-git clone [The HTTPS or SSH URL of the Repository goes here]
-cd [The Main Project Folder Name (Usually the repository name)]
+git clone https://github.com/Merenylmz/EfrahimTechnicalFrontend.git
+cd projectfolder
 npm install
 npm run start
 ```
